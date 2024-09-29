@@ -1,0 +1,19 @@
+<section id="resources" class="container">
+  <h1 class="border-bottom mb-4">Browse our resources</h1>
+  <div class="row g-4 row-cols-3 g-lg-4 py-5">
+    {% for resource in site.data.landing.resources.list %}
+    <div class="col">
+
+      
+      <div class="card h-100">
+        <div class="card-body">
+          <h5 class="card-title">{{resource.title}}</h5>
+          <p class="card-text">{{resource.description}}</p>
+          <a href="{{resource.link}}" class="btn btn-primary">{{resource.link-text}}</a>
+        </div>
+      </div>
+    </div>
+       
+    {% endfor %}
+  </div>
+</section>

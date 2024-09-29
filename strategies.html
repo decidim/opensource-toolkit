@@ -1,0 +1,22 @@
+---
+layout: default
+---
+<section id="collections">
+  
+  <div class="container row g-4 mx-auto">
+    <h1 class="border-bottom mb-4">Browse Open source strategies from around the world</h1>
+    {% for strategy in site.strategies %}
+    <div class="col-3">
+      <div class="card h-100">
+        <div class="card-body">
+          <h3>{{strategy.strategy}}</h3>
+          <p>{{strategy.country}}</p>
+          <p>{{strategy.type}}</p>
+          <a href="{{ strategy.slug}}" class="btn btn-primary">Read more</a>
+        </div>
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+    
+</section>

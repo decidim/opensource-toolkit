@@ -1,0 +1,44 @@
+hero: 
+  title: Open Source Toolkit for Public Administrations
+  subtitle: Implement a FLOSS strategy for the public sector
+  primary_button:
+    title: Build your policy
+    link: /#policy
+  secondary_button:
+    title: Read the Decidim case
+    link: /decidim-case
+impact:
+  title: FLOSS Govtech solutions can serve millions
+  subtitle: "The Decidim project was built by one city, and has reached:"
+  impacts:
+    - title: 55 languages
+      subtitle: "Volunteers worldwide translated Decidim to 55 languages"
+    - title: 41 countries
+      subtitle: "Used from small neighborhoods to entire countries"
+    - title: 3 million users
+      subtitle: "At least 3 million people in 5 continents have used Decidim"
+policy:
+  title: Check our policy-building guides
+  policies:
+    - title: How to publish open-source projects
+      link: /publishing-open-source-projects
+      image: unsplash-photo-1.jpg
+    - title: How to re-use open-source projects ethically
+      link: /re-using-open-source-projects
+      image: unsplash-photo-2.jpg
+faqs: Frequently asked questions for policy-makers
+resources:
+  title: Browse our resources
+  list:
+    - title: List of Open Source strategies
+      description: "Browse open source policies from around the world"
+      link: /strategies
+      link-text: Read more
+    - title: Opens source software for public administrations
+      description: "A curated list of Open source software used by governments that you can implement today"
+      link: /open-source-software
+      link-text: Read more
+    - title: Tools for mounting your strategy
+      description: "A collection of tools that successful FLOSS projects use to enable collaboration and community"
+      link: /open-source-tooling
+      link-text: Read more
