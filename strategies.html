@@ -12,7 +12,7 @@ layout: default
           <h3>{{strategy.strategy}}</h3>
           <p>{{strategy.country}}</p>
           <p>{{strategy.type}}</p>
-          <a href="{{ strategy.slug }}" class="btn btn-primary">Read more</a>
+          <a href="{{ strategy.url | relative_url }}" class="btn btn-primary">Read more</a>
         </div>
       </div>
     </div>
