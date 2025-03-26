@@ -41,6 +41,9 @@ collections:
   strategies:
     output: true
     permalink: /strategies/:slug/
+  codebase:
+    output: true
+    permalink: /codebase/:slug/
    
 # Exclude from processing.
 # The following items will not be processed, by default.
