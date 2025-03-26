@@ -1,12 +1,12 @@
 hero: 
-  title: Open Source Toolkit for Public Administrations
-  subtitle: Implement a FLOSS strategy for the public sector
+  title: Digital Public Goods Toolkit for Public Administrations
+  subtitle: Implement DPGs into your policy for the public sector
   primary_button:
-    title: Build your policy
-    link: /#policy
+    title: Publish a DPG
+    link: /publish
   secondary_button:
-    title: Read the Decidim case
-    link: /decidim-case
+    title: Adopt DPGs
+    link: /adopt
 impact:
   title: FLOSS Govtech solutions can serve millions
   subtitle: "The Decidim project was built by one city, and has reached:"
@@ -26,6 +26,14 @@ policy:
     - title: How to re-use open-source projects ethically
       link: /re-using-open-source-projects
       image: unsplash-photo-2.jpg
+DGPs:
+  dpgs:
+    - title: What are DGPs and why work under this model
+      link: "#"
+    - title: Publish a DPGs
+      link:
+    - title: How to adopt a DPGs
+      link:
 faqs: Frequently asked questions for policy-makers
 resources:
   title: Browse our resources

@@ -7,7 +7,7 @@
       <h1 class="display-5 fw-bold lh-1 mb-3">{{site.data.landing.hero.title}}</h1>
       <p class="lead">{{site.data.landing.hero.subtitle}}</p>
       <div class="d-grid gap-2 d-md-flex justify-content-md-start">
-        <a href="{{site.data.landing.hero.primary_button.link}}" target="_self" rel="noopener noreferrer">
+        <a href="{{site.data.landing.hero.primary_button.link | relative_url }}" target="_self" rel="noopener noreferrer">
           <button type="button" class="btn btn-primary btn-lg px-4 me-md-2">{{site.data.landing.hero.primary_button.title}}</button>
         </a>
         <a href="{{site.data.landing.hero.secondary_button.link}}" target="_blank" rel="noopener noreferrer">
