@@ -44,6 +44,15 @@ collections:
   codebase:
     output: true
     permalink: /codebase/:slug/
+  technology:
+    output: true
+    permalink: /technology/:slug/
+  community:
+    output: true
+    permalink: /community/:slug/
+  governance:
+    output: true
+    permalink: /governance/:slug/
    
 # Exclude from processing.
 # The following items will not be processed, by default.

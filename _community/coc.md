@@ -1,5 +1,7 @@
 ---
+layout: page
 description: A code of conduct is a document that establishes expectations for behavior for your project’s participants. Adopting, and enforcing, a code of conduct can help create a positive social atmosphere for your community.¹
+title: Code of Conduct
 ---
 
 There are two parts to implementing a Code of Conduct (CoC) that you should consider:

@@ -1,4 +1,5 @@
 ---
+layout: page
 description: A README file is a text file which introduces and explains the project¹. It is the first file any person looking at the code-base will see.
 ---
 
