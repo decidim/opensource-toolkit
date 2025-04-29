@@ -14,7 +14,7 @@ You can check proven open source solutions for the public good by accessing the 
 
 ### The hidden costs of building versus adopting
 
-You may want to have total control over the product you are building and don't want to deal with the learning curvfe of adopting a software that may well be complicated. Here's some reasons you should consider:
+You may want to have total control over the product you are building and don't want to deal with the learning curve of adopting a software that may well be complicated. Here's some reasons you should consider:
 
 1. Building from scratch is prone to missing important features. We take a lot of functionality for granted, which only comes from extensively using, testing and continously mantaining the same piece of software over the years. A lot of that functionality may be either invisible to end users or leave vulnerabilities open for hackers to discover. For example: An extensive log of all events that happen on the software is not visible to end users, but is crucial to diagnose errors in an application which is bound to happen. Imagine a piece of software serving an entire country and a part of it start to fails. You put your team to diagnose the issue but since event logging is not an end-user facing feature, it was never prioritised nor built. Now developers are left on the dark when trying to solve the issue. Using a piece of software that has a global community using it, means there is thousands of teams and organizations using and  testing it. Issues are detected and patched faster and new features get built.
 

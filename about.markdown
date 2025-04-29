@@ -15,4 +15,12 @@ It is just through this path of **sustainably publishing** and **ethically adopt
 However, in our experience as a DPG publisher, tasked with properly mantain a DPG, and as watching how different public administrations engage with our software, or how other administrations attempt and fail to publish a DPG, we have noticed there is a set of good practices to follow for DPG publishing and adoption to succeed. Which is why, through working with other administrations we came up with this toolkit. It serves as a compilation of good practices we have both built and observed worked. 
 
 We hope that by publishing and growing this resource, we help other teams such as Barcelona's back in 2017 make the decisions necessary to build software that can be re-used worldwide and has a life of its own, beyond the public administration that birthed it.
+<div class="row py-5">
+<div class="col col-lg-3">
+<a href="https://decidim.org/" target="_blank"><img src="/assets/images/decidim-logo-claim.svg" class="decidim-to-black w-100" alt="Decidim Logo"></a>
+</div>
+<div class="col col-lg-3">
 
+<a href="https://www.peoplepowered.org/" target="_blank"><img src="/assets/images/peoplepowered.png" class="pp-to-black w-100" alt="People Powered Logo"></a>
+</div>
+</div>
