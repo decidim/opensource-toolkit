@@ -7,11 +7,13 @@
   <link rel="stylesheet" href="{{ '/assets/css/styles.css' | relative_url }}">
   <title>{{site.title}}</title>
 </head>
-<body>
+<body class="d-flex flex-column min-vh-100">
   {% include header.html %}
+  <main class="h-100 flex-grow-1">
 
-    {{ content }}
-
+  {{ content }}
+  
+  </main>
   {% include footer.html %}
   <script src="{{'/assets/js/bootstrap.bundle.min.js' | relative_url }}"></script>
 </body>
